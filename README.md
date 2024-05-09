@@ -22,7 +22,7 @@ Assignments:
 My examples:
 
 
-(https://github.com/arielleglass/my-resources-AG/tree/69233eca5ccf6756e47e30a01d7364c8c10e17d9/Examples)
+https://github.com/arielleglass/my-resources-AG/tree/69233eca5ccf6756e47e30a01d7364c8c10e17d9/Examples
 
 Interesting module:
 

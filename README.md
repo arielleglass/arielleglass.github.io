@@ -19,10 +19,7 @@ Assignments:
 
 [Assignment 6](https://github.com/arielleglass/my-resources-AG/tree/main/Examples#:~:text=..-,Assignment_6_AG.Rmd,-Adding%20to%20Git)
 
-My examples:
-
-
-https://github.com/arielleglass/my-resources-AG/tree/69233eca5ccf6756e47e30a01d7364c8c10e17d9/Examples
+[My examples](https://github.com/arielleglass/my-resources-AG/tree/69233eca5ccf6756e47e30a01d7364c8c10e17d9/Examples)
 
 Interesting module:
 

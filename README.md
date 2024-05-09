@@ -15,12 +15,15 @@ Useful links:
 
 Assignments:
 
+[Assignment 4](https://github.com/arielleglass/my-resources-AG/tree/main/Examples#:~:text=last%20week-,Tidyverse_HW_AG.Rmd,-Adding%20to%20Git)
 
+[Assignment 6](https://github.com/arielleglass/my-resources-AG/tree/main/Examples#:~:text=..-,Assignment_6_AG.Rmd,-Adding%20to%20Git)
 
 My examples:
 
-
+(https://github.com/arielleglass/my-resources-AG/tree/69233eca5ccf6756e47e30a01d7364c8c10e17d9/Examples)
 
 Interesting module:
 
+[Module 10- Image Analysis](https://github.com/arielleglass/CM515-course-2024/tree/48e24f15e6d167d64b7353d7b61d91a26d2cbd38/modules/10_Image_Analysis0
 

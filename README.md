@@ -8,10 +8,13 @@ Arielle Glass studied Molecular and Cellular Biology at Vanderbilt University an
 Useful links:
 
 [R studio beginner guide](https://education.rstudio.com/learn/beginner/)
+
 [R studio commands](https://www.personality-project.org/r/r.commands.html)
+
 [Python commands](https://www.interviewbit.com/blog/python-commands/)
 
 Assignments:
+
 
 
 Link to my-examples repo
